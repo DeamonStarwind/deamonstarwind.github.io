@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-# Point Google to your sitemap
+# My Site
 Sitemap: https://deamonstarwind.github.io/
