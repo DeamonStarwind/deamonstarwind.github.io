@@ -1,18 +1,18 @@
 # Hi there, I'm Mark Almazan 👋 
 
 ### 💻 Software Engineer & Technical Webmaster
-*Bridging the gap between 9+ years of backend engineering and high-performance frontend SEO.*
+*Bridging the gap between 9+ years of backend engineering and high-performance technical SEO.*
 
 ---
 
 ## 🛠 Tech Stack: The Webmaster's Foundation
 
-As a Webmaster, I don't just "manage" sites; I architect them for speed and search visibility.
+As a Webmaster, I architect sites for speed, scalability, and search dominance.
 
-### **Core Frontend Expertise**
-- **Semantic HTML5:** Expert in document object model (DOM) structure, ensuring maximum accessibility and crawlability using `<main>`, `<article>`, and `<section>` tags.
-- **Modern CSS3:** Focused on performance-first styling (CSS Grid, Flexbox) and eliminating render-blocking resources to achieve **100/100 Core Web Vitals**.
-- **SEO Implementation:** Manual management of Meta Titles, Descriptions, Open Graph tags, and JSON-LD Structured Data.
+### **Core Frontend & CMS Expertise**
+- **Semantic HTML5 & CSS3:** Expert in document structure (DOM) and performance-first styling (Grid/Flexbox) to achieve **100/100 Core Web Vitals**.
+- **Custom CMS Management:** Deep experience in managing and optimizing **Custom CMS architectures**, ensuring clean code output and SEO-friendly content delivery.
+- **SEO Implementation:** Manual management of Title Tags, Meta Descriptions, Open Graph, and Schema.org (JSON-LD).
 
 ### **Backend & Systems**
 - **Languages:** C#, C++, Node.js (JavaScript/TypeScript)
@@ -20,12 +20,12 @@ As a Webmaster, I don't just "manage" sites; I architect them for speed and sear
 
 ---
 
-## 🚀 Webmaster Operations & SEO
-I specialize in the "Technical" side of SEO—the part that happens inside the code.
+## 🚀 Webmaster Operations & Analytics
+I specialize in "Under-the-Hood" SEO—turning technical data into organic growth.
 
-- [x] **Tag Hygiene:** Precise control over `<title>` and `<meta>` tags for optimized CTR.
-- [x] **Site Maintenance:** 24/7 monitoring of uptime, SSL health, and sitemap XML validation.
-- [x] **Performance Auditing:** Deep-dive analysis of Largest Contentful Paint (LCP) and Cumulative Layout Shift (CLS).
+- [x] **Analytics & Data:** Advanced tracking and reporting using **Google Analytics 4 (GA4)** and **Google Search Console (GSC)** to monitor user behavior and search trends.
+- [x] **Performance Auditing:** Deep-dive analysis of Largest Contentful Paint (LCP) and Cumulative Layout Shift (CLS) via **GSC Core Web Vitals** reports.
+- [x] **Site Maintenance:** 24/7 monitoring of SSL health, XML Sitemaps, and server-side response times.
 
 ---
 
